@@ -1,13 +1,13 @@
 # CMakeExerciesDependencyFromGit
 
-## Exercise zero (template for all cmake program): 
+## Exercise zero (template for all cmake program): ✅
 
 Steps:
 1) create cmakelists.txt
 2) add main.cpp
 3) compile and output hello world.
 
-## Exercise one: dependency from git repo
+## Exercise one: dependency from git repo  ✅
 
 steps:
 
