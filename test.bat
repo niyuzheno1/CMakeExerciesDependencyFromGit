@@ -1,1 +1,1 @@
-.\build\Debug\CNakeExercises.exe
+.\build\Debug\CMakeExercises.exe
