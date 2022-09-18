@@ -15,3 +15,12 @@ steps:
 2) Change the main.cpp file accordingly 
 3) Write test script (read from an existing file -- a.txt and overwrite a file -- b.txt)
 4) Run test script
+
+## Exercise two: dependencies from two git rep  ✅
+
+steps:
+
+1) add dependency (FIOU) and (FSP) to the cmakelist.txt (headers and libs) 
+2) Change the main.cpp file accordingly 
+3) Write test script (read from an existing file -- a.txt and overwrite a file -- b.txt)
+4) Run test script
